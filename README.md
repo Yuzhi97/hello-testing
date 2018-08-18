@@ -1,2 +1,3 @@
 # hello-testing
 Testing....
+New beginner here. GitHub is cool.
